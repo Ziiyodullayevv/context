@@ -1,0 +1,19 @@
+.emoji-display {
+  width: 400px;
+  background-color: aliceblue;
+  padding: 30px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji-display .title {
+  font-size: 30px;
+  color: aqua;
+}
+
+.emoji-display .emoji {
+  font-size: 80px;
+}
